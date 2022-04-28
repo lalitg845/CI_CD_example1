@@ -17,5 +17,5 @@ jobs:
         run: make
       - name: make test2
         run: make test2
-      - name: make test2
+      - name: run hello
         run: ./hello
